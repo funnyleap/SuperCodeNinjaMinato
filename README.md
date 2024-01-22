@@ -24,7 +24,7 @@
 
 - **Looking to work on position:** Passionate Web Developer
 - **Interested in:** Responsive Design, MERN stack, Webpack, GraphQL Data Scraping, Webflow, Wordpress, Go, Ruby on Rails, Rust.
-- **Hobby:** tabletenis, badminton
+- **Hobby:** Technology and Gadgets, Health and Fitness, Mindfulness and Well-being, Sustainable Living, Travel and Adventure, Gaming and Esports, Food and Cooking
 - **Email:** &nbsp; <a href="mailto:yuyanakai99920@gmail.com" target="_blank">yuyanakai99920@gmail.com</a>
 
 ### STUDY
